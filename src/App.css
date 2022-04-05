@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.nearest{
+  background-color: blue;
+}
+
+.nearestComponent {
+  background-color: red;
+}
